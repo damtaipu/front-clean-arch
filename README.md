@@ -26,7 +26,7 @@ Siga estes passos simples para começar com nosso Angular Clean Architecture Sta
 https://github.com/damtaipu/front-clean-arch.git
 ```
 
-2. **Instake os pacotes**:
+2. **Instale os pacotes**:
 ```bash
 npm i
 ```
