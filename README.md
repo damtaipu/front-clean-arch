@@ -32,9 +32,9 @@ npm i
 ```
 
 4. **Execute a Aplicação**:
-   ```bash
-   npm run start
-   ```
+```bash
+npm run start
+```
 
 6. **Comece a Codificar!**:
    Explore a estrutura do projeto e comece a implementar seus recursos seguindo os princípios da Clean Architecture.
@@ -54,6 +54,6 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LIC
 
 ## Entre em Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em [entrar em contato conosco](mailto:damiaotaipiu@gmail.com)!
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em [entrar em contato conosco](mailto:damiaotaipu@gmail.com)!
 
 Vamos construir aplicativos Angular incríveis juntos! 🚀
