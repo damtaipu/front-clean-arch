@@ -2,7 +2,7 @@
 
 Bem-vindo ao nosso repositório Angular 17 com Clean Architecture! 🎉
 
-![Logo do Angular](https://angular.io/assets/images/logos/angular/angular.svg | width=100)
+<img src="[https://your-image-url.type](https://angular.io/assets/images/logos/angular/angular.svg)" width="100" height="100">
 
 ## Introdução
 
