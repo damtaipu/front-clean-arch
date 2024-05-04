@@ -1,27 +1,50 @@
-# CleanArch
+# Starter de Angular 17 com Clean Architecture
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+Bem-vindo ao nosso repositório Angular 17 com Clean Architecture! 🎉
 
-## Development server
+![Logo do Angular](https://angular.io/assets/images/logos/angular/angular.svg)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Introdução
 
-## Code scaffolding
+Este projeto serve como um modelo aberto e funcional em Angular 17 estruturado em Clean Architecture, empregando o padrão Repository com Inversão de Dependência. Foi projetado para fornecer uma base robusta para a implementação de projetos Angular com facilidade e escalabilidade.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Funcionalidades
 
-## Build
+- **Estrutura de Clean Architecture**: Código organizado e modular seguindo os princípios da clean architecture para uma clara separação de preocupações.
+- **Angular 17**: Aproveitando os recursos e melhorias mais recentes do framework Angular para desenvolvimento web moderno.
+- **Padrão Repository**: Implementação do padrão repository para abstração e separação de acesso a dados.
+- **Inversão de Dependência**: Utilização de IoC para desacoplar dependências e facilitar testes e manutenção.
+- **Escalabilidade**: Projetado para escalar com o crescimento do seu projeto, mantendo desempenho e legibilidade.
+- **Flexibilidade**: Facilmente personalizável e extensível para se adaptar a vários requisitos de projeto.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como Começar
 
-## Running unit tests
+Siga estes passos simples para começar com nosso Angular Clean Architecture Starter:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Clone o Repositório**:
 
-## Running end-to-end tests
+2. **Execute a Aplicação**:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. **Execute a Aplicação**:
 
-## Further help
+4. **Comece a Codificar!**:
+   Explore a estrutura do projeto e comece a implementar seus recursos seguindo os princípios da Clean Architecture.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contribuição
+
+Aceitamos contribuições da comunidade para melhorar este projeto inicial ainda mais. Sinta-se à vontade para abrir problemas, enviar solicitações de recebimento ou compartilhar suas ideias conosco!
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Agradecimentos
+
+- Um grande agradecimento à equipe do Angular por fornecer um framework incrível para desenvolvimento web moderno.
+- Inspirado nos princípios da Clean Architecture por Uncle Bob (Robert C. Martin).
+
+## Entre em Contato
+
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em [entrar em contato conosco](mailto:damiaotaipiu@gmail.com)!
+
+Vamos construir aplicativos Angular incríveis juntos! 🚀
