@@ -2,7 +2,7 @@
 
 Bem-vindo ao nosso repositório Angular 17 com Clean Architecture! 🎉
 
-![Logo do Angular](https://angular.io/assets/images/logos/angular/angular.svg)
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*uUKym6BwzQbXCL7St2lPWQ.png" width="200">
 
 ## Introdução
 
@@ -22,12 +22,21 @@ Este projeto serve como um modelo aberto e funcional em Angular 17 estruturado e
 Siga estes passos simples para começar com nosso Angular Clean Architecture Starter:
 
 1. **Clone o Repositório**:
+```bash
+https://github.com/damtaipu/front-clean-arch.git
+```
 
-2. **Execute a Aplicação**:
+2. **Instale os pacotes**:
+```bash
+npm i
+```
 
-3. **Execute a Aplicação**:
+4. **Execute a Aplicação**:
+```bash
+npm run start
+```
 
-4. **Comece a Codificar!**:
+5. **Comece a Codificar!**:
    Explore a estrutura do projeto e comece a implementar seus recursos seguindo os princípios da Clean Architecture.
 
 ## Contribuição
@@ -45,6 +54,6 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LIC
 
 ## Entre em Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em [entrar em contato conosco](mailto:damiaotaipiu@gmail.com)!
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em [entrar em contato conosco](mailto:damiaotaipu@gmail.com)!
 
 Vamos construir aplicativos Angular incríveis juntos! 🚀
