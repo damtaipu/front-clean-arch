@@ -21,11 +21,13 @@ Este projeto serve como um modelo aberto e funcional em Angular 17 estruturado e
 
 Siga estes passos simples para começar com nosso Angular Clean Architecture Starter:
 
-1. **Clone o Repositório**:
+1. **Clone o Repositório**: ```bash
+https://github.com/damtaipu/front-clean-arch.git
+```
 
-2. **Execute a Aplicação**:
+2. **Instake os pacotes**: ```bash npm i ```
 
-3. **Execute a Aplicação**:
+3. **Execute a Aplicação**: ```bash npm run start ```
 
 4. **Comece a Codificar!**:
    Explore a estrutura do projeto e comece a implementar seus recursos seguindo os princípios da Clean Architecture.
