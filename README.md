@@ -36,7 +36,7 @@ npm i
 npm run start
 ```
 
-6. **Comece a Codificar!**:
+5. **Comece a Codificar!**:
    Explore a estrutura do projeto e comece a implementar seus recursos seguindo os princípios da Clean Architecture.
 
 ## Contribuição
