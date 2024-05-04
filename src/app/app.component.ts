@@ -1,5 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { CardUseCase } from '@domain/usecases/card/card.usecase';
+
 
 @Component({
   selector: 'app-root',
@@ -10,4 +12,12 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'clean-arch';
+
+  private getCard = inject(CardUseCase)
+
+  constructor(){
+    this.getCard.execute().subscribe(e => {
+      console.log(e)
+    })
+  }
 }
