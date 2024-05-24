@@ -1,6 +1,5 @@
 import { HttpHeaders } from '@angular/common/http';
 
-
 const setHeader = (token: string) => {
   let headToken: HttpHeaders;
   headToken = new HttpHeaders()
